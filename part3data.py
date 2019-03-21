@@ -1,4 +1,4 @@
-"""today we will talk about a set. they are unique, in a set you can not guarantee a order
+"""Today we will talk about a set. they are unique, in a set you can not guarantee a order
 to create a set for example:
 """
 mySet = {'Giovanni', 'Tero', 'Lars', 'Vullnet'} 
